@@ -21,12 +21,66 @@
 ### 📥 Installation
 1. **Download** latest release from [Releases page](#)
 2. **Extract** ZIP archive to desired folder
-3. **Run** `OmnyAntiAFK.exe`
+3. **Run** `launcher.py`
 4. **Configure** your settings 🎮
 5. **Enable** and enjoy! 🎉
 
 ### 🎮 Basic Usage
 ```bash
+
 # Launch VALORANT first
 # Then run Omny Anti-AFK
 # Press F2 to toggle ON/OFF
+
+
+## ⚙️ Settings
+
+- **Action Interval**: `1-5 minutes` ⏱️
+- **Movement Type**: `WASD`, `Random` 🎮
+- **Hotkeys**: `Customizable` ⌨️
+- **Start Mode**: `Manual/Auto` 🚀
+
+## 📁 Files
+
+omny-anti-afk/
+├── 📁 src/ # Source code
+├── 📁 build/ # Program files
+├── 📜 README.md # This file
+├── 📜 LICENSE # MIT License
+└── 📜 config.ini # Settings
+
+
+## ⭐ Benefits
+
+- ✅ **Undetectable** - Smart algorithm
+- ✅ **Customizable** - Full control
+- ✅ **Safe** - No game modification
+- ✅ **Reliable** - Tested and working
+- ✅ **Free** - Open source 💝
+
+## ⚠️ Important
+
+> **🔴 USE AT YOUR OWN RISK**
+> This is for educational purposes. Follow game rules.
+
+
+## 🏷️ Tags
+
+#Valorant #AntiAFK #Gaming #Utility #Windows
+#GameTool #AFKProtection #FreeSoftware #OpenSource
+
+
+
+## 📜 License
+
+**MIT License** - Free to use and modify 📜
+
+---
+
+<div align="center">
+
+### **⭐ If you like this project, give it a star! ⭐**
+
+**Made with ❤️ for gamers** 🎮
+
+</div>
