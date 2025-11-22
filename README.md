@@ -39,27 +39,6 @@
 - **Hotkeys**: `Customizable` ⌨️
 - **Start Mode**: `Manual/Auto` 🚀
 
-## 📁 Files
-
-Omny/
-├── 📁 src/ # Source code
- ├── 📜 __init__.py
- ├── 📜 anti_afk.py
- ├── 📜 game_detector.py
- ├── 📜 main_app.py
- ├── 📜 modern_widgets.py
- ├── 📜 notifications.py
- ├── 📜 styles.py
-├── 📁 resources/ # Resources
- ├── 📁 icons/ # Icons
- ├── 📜 play.png
- ├── 📜 stop.png
- ├── 📜 settings.png
-├── 📜 README.md # Info
-├── 📜 launcher.py # Omny launcher
-├── 📜 LICENSE # MIT License
-└── 📜 requirements.txt # req
-
 
 ## ⭐ Benefits
 
