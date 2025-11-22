@@ -41,12 +41,24 @@
 
 ## 📁 Files
 
-omny-anti-afk/
+Omny/
 ├── 📁 src/ # Source code
-├── 📁 build/ # Program files
-├── 📜 README.md # This file
+ ├── 📜 __init__.py
+ ├── 📜 anti_afk.py
+ ├── 📜 game_detector.py
+ ├── 📜 main_app.py
+ ├── 📜 modern_widgets.py
+ ├── 📜 notifications.py
+ ├── 📜 styles.py
+├── 📁 resources/ # Resources
+ ├── 📁 icons/ # Icons
+ ├── 📜 play.png
+ ├── 📜 stop.png
+ ├── 📜 settings.png
+├── 📜 README.md # Info
+├── 📜 launcher.py # Omny launcher
 ├── 📜 LICENSE # MIT License
-└── 📜 config.ini # Settings
+└── 📜 requirements.txt # req
 
 
 ## ⭐ Benefits
