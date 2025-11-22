@@ -14,7 +14,6 @@
 | **Customizable Settings** | Adjustable intervals and behavior patterns | ⚙️ |
 | **Stealth Mode** | Natural movements that avoid suspicion | 🕵️ |
 | **Easy to Use** | Simple interface with one-click activation | 🎯 |
-| **Lightweight** | Low resource usage, runs in background | 🪶 |
 
 ## 🚀 Quick Start
 
