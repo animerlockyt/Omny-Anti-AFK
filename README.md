@@ -26,7 +26,6 @@
 5. **Enable** and enjoy! 🎉
 
 ### 🎮 Basic Usage
-```bash
 
 # Launch VALORANT first
 # Then run Omny Anti-AFK
