@@ -27,12 +27,12 @@
 
 ### 🎮 Basic Usage
 
-# Launch VALORANT first
-# Then run Omny Anti-AFK
-# Press START button
+## Launch VALORANT first
+## Then run Omny Anti-AFK
+## Press START button
 
 
-## ⚙️ Settings
+# ⚙️ Settings
 
 - **Action Interval**: `1-5 minutes` ⏱️
 - **Movement Type**: `WASD`, `Random` 🎮
