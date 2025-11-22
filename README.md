@@ -29,7 +29,7 @@
 
 # Launch VALORANT first
 # Then run Omny Anti-AFK
-# Press F2 to toggle ON/OFF
+# Press START button
 
 
 ## ⚙️ Settings
