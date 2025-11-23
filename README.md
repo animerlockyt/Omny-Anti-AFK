@@ -18,7 +18,7 @@
 ## 🚀 Quick Start
 
 ### 📥 Installation
-1. **Download** latest release from [Releases page](#https://github.com/animerlockyt/Omny-Anti-AFK/releases/tag/v1.0.0)
+1. **Download** latest release from [Releases page](https://github.com/animerlockyt/Omny-Anti-AFK/releases/tag/v1.0.0)
 2. **Extract** ZIP archive to desired folder
 3. **Run** `launcher.py`
 4. **Configure** your settings 🎮
