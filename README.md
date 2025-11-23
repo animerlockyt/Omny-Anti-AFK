@@ -60,9 +60,10 @@
 
 ## 💻 Interface
 
-<img width="500" height="495" alt="{E729D0CC-A074-4A2B-9A81-0D0EB044520F}" src="https://github.com/user-attachments/assets/e80429ee-0f21-40d9-9142-122a8eee3f00" />
+<img width="595" height="495" alt="{C07301B6-4E5A-4AF3-8761-7340360522DF}" src="https://github.com/user-attachments/assets/a4d5e261-b5ef-42dc-b00c-df992ad9842b" />
 
-<img width="803" height="925" alt="{7B7A6335-E87F-47EA-A33F-C4E65ED20769}" src="https://github.com/user-attachments/assets/4bfe414e-9997-42a4-bb0f-f4c857353fa5" />
+<img width="797" height="923" alt="{717CF20F-9FBA-42D7-92AF-2A939A69ED1B}" src="https://github.com/user-attachments/assets/9ed17c83-02c7-44c7-a926-e81e37c80f3d" />
+
 
 
 
