@@ -58,6 +58,15 @@
 #GameTool #AFKProtection #FreeSoftware #OpenSource
 
 
+## 💻 Interface
+
+<img width="500" height="500" alt="{E729D0CC-A074-4A2B-9A81-0D0EB044520F}" src="https://github.com/user-attachments/assets/e80429ee-0f21-40d9-9142-122a8eee3f00" />
+
+<img width="803" height="930" alt="{7B7A6335-E87F-47EA-A33F-C4E65ED20769}" src="https://github.com/user-attachments/assets/4bfe414e-9997-42a4-bb0f-f4c857353fa5" />
+
+
+
+
 
 ## 📜 License
 
