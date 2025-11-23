@@ -33,7 +33,7 @@
 
 # ⚙️ Settings
 
-- **Action Interval**: `5-150 sec` ⏱️
+- **Action Interval**: `5-120 sec` ⏱️
 - **Movement Type**: `WASD`, `Random` 🎮
 - **Start Mode**: `Manual/Auto` 🚀
 
